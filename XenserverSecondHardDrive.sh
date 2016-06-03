@@ -1,0 +1,2 @@
+#!/bin/bash
+xe sr-create content-type=user device-config:device=/dev/disk/by-id/scsi-SATA_TOSHIBA_DT01ACA_169NPBPMS host-uuid=a8bc5f61-cc2e-4df2-860c-ebf34b531dfd name-label="Local backup storage" shared=false type=lvm
